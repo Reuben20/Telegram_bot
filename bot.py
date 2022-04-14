@@ -13,7 +13,7 @@ def req(type,category):
 
 if __name__ == '__main__':
 
-    updater = Updater(token='5160987677:AAHnMlG0MTieENZUvzJozrlCAZVLvEGpZtg',use_context=True)
+    updater = Updater(token='TOKEN',use_context=True)
 
     dp = updater.dispatcher
     
